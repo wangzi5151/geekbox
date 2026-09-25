@@ -1,0 +1,3 @@
+# Android Studio 会自动生成此文件，无需提交到版本库。
+# 若手动构建，请填写本机 Android SDK 路径：
+sdk.dir=/path/to/Android/Sdk
